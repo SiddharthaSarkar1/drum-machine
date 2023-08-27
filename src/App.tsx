@@ -1,5 +1,4 @@
 import * as React from "react";
-import { useState } from "react";
 import "./App.css";
 import Drum from "./Drum";
 import { AudioClip } from "./types";
